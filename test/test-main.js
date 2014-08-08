@@ -10,7 +10,8 @@ Object.keys(window.__karma__.files).forEach(function(file) {
 require.config({
     // Karma serves files under /base, which is the basePath from your config file
     paths: {
-        'slugify': 'slugify'
+        'slugify': 'slugify',
+        'calculator': 'calculator'
     },
 
     baseUrl: '/base/app/js',
