@@ -1,4 +1,5 @@
-![](jasmine.png)
+========================
+#Jasmine Require Istanbul Starter ![](jasmine.png)
 ========================
 
 A skeleton starter project for Grunt, Karma, Jasmine and Istanbul for code coverage
