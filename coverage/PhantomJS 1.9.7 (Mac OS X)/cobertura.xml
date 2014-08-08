@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage lines-valid="16"  lines-covered="16"  line-rate="1"  branches-valid="0"  branches-covered="0"  branch-rate="1"  timestamp="1407493582742" complexity="0" version="0.1">
+<sources>
+	<source>/Users/z608155/dev/jasmine-require-istanbul</source>
+</sources>
+<packages>
+	<package name="js"  line-rate="1"  branch-rate="1" >
+	<classes>
+		<class name="calculator.js"  filename="app/js/calculator.js"  line-rate="1"  branch-rate="1" >
+		<methods>
+			<method name="(anonymous_1)"  hits="1"  signature="()V" >
+				<lines><line number="2"  hits="1" /></lines>
+			</method>
+			<method name="(anonymous_2)"  hits="2"  signature="()V" >
+				<lines><line number="7"  hits="2" /></lines>
+			</method>
+			<method name="(anonymous_3)"  hits="2"  signature="()V" >
+				<lines><line number="12"  hits="2" /></lines>
+			</method>
+			<method name="(anonymous_4)"  hits="2"  signature="()V" >
+				<lines><line number="17"  hits="2" /></lines>
+			</method>
+			<method name="(anonymous_5)"  hits="2"  signature="()V" >
+				<lines><line number="22"  hits="2" /></lines>
+			</method>
+		</methods>
+		<lines>
+			<line number="2"  hits="1"  branch="false" />
+			<line number="4"  hits="1"  branch="false" />
+			<line number="8"  hits="2"  branch="false" />
+			<line number="13"  hits="2"  branch="false" />
+			<line number="18"  hits="2"  branch="false" />
+			<line number="23"  hits="2"  branch="false" />
+		</lines>
+		</class>
+		<class name="slugify.js"  filename="app/js/slugify.js"  line-rate="1"  branch-rate="1" >
+		<methods>
+			<method name="(anonymous_1)"  hits="1"  signature="()V" >
+				<lines><line number="2"  hits="1" /></lines>
+			</method>
+			<method name="(anonymous_2)"  hits="2"  signature="()V" >
+				<lines><line number="5"  hits="2" /></lines>
+			</method>
+		</methods>
+		<lines>
+			<line number="2"  hits="1"  branch="false" />
+			<line number="4"  hits="1"  branch="false" />
+			<line number="6"  hits="2"  branch="false" />
+			<line number="7"  hits="2"  branch="false" />
+			<line number="10"  hits="2"  branch="false" />
+			<line number="11"  hits="2"  branch="false" />
+			<line number="12"  hits="2"  branch="false" />
+			<line number="13"  hits="62"  branch="false" />
+			<line number="16"  hits="2"  branch="false" />
+			<line number="20"  hits="2"  branch="false" />
+		</lines>
+		</class>
+	</classes>
+	</package>
+</packages>
+</coverage>
