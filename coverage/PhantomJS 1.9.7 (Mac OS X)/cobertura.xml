@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage lines-valid="16"  lines-covered="16"  line-rate="1"  branches-valid="0"  branches-covered="0"  branch-rate="1"  timestamp="1407494161433" complexity="0" version="0.1">
+<coverage lines-valid="16"  lines-covered="16"  line-rate="1"  branches-valid="0"  branches-covered="0"  branch-rate="1"  timestamp="1407495857943" complexity="0" version="0.1">
 <sources>
 	<source>/Users/z608155/dev/jasmine-require-istanbul</source>
 </sources>
